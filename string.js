@@ -14,4 +14,5 @@
 
 let str= "panda is motuu too much even lazy";
 let strCopy =str.split([2]);
-console.log(strCopy);
+console.log(strCopy);//["panda is motuu too much evn lazy"]
+

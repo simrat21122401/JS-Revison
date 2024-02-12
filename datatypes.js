@@ -63,7 +63,7 @@ console.log(null!==0)  //true
 //the reason is that equa;ity check == and comparison > < >= works differently
 
 //===
-console.log("2"===2);
+console.log("2"===2);//false
 
 
 
