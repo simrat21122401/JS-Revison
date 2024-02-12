@@ -18,3 +18,6 @@ const panda = "bgarh"
 const panda1 = "gurugram"
 console.log("panda")
 
+console.table([panda]);
+
+
